@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">StartActivity</string>
+    <string name="newActivityButton">Отправить</string>
+    <string name="about_text">Разработано и забыто.</string>
+    <string name="about_title">О программе</string>
+    <string name="who">Кому</string>
+    <string name="descriptionLabel">Описание</string>
+    <string name="decription">decription</string>
+    <string name="name">name</string>
+</resources>
